@@ -20,4 +20,5 @@ upcoming features:
 please make donations to below ETN address, thank you:
 etnjxx1nyrU4sayUzz14nXidenKXjrsJB5dQjhRhwCXhUTJkJCRGQcu2K9MkVtuhUgUYmrMJKSsjKhzuMptXgoaU2tq3aRK65N
 
-contact: unusximmortalis@gmail.com
+contact@simpletn.com
+
