@@ -16,4 +16,4 @@ upcoming features:
 dev donations to ETN address
 etnjxx1nyrU4sayUzz14nXidenKXjrsJB5dQjhRhwCXhUTJkJCRGQcu2K9MkVtuhUgUYmrMJKSsjKhzuMptXgoaU2tq3aRK65N
 
-contact: contact@simplETN.com
+contact: unusximmortalis@gmail.com
