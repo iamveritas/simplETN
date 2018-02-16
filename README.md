@@ -12,3 +12,8 @@ upcoming features:
 3. support for one time fee which will wave current dev fee
 4. support for pool change, pool history and wallet ballance inquiry over the pool history
 5. support for different coins: monero, sumokoin, ethereum, please suggest here more.
+
+dev donations to ETN address
+etnjxx1nyrU4sayUzz14nXidenKXjrsJB5dQjhRhwCXhUTJkJCRGQcu2K9MkVtuhUgUYmrMJKSsjKhzuMptXgoaU2tq3aRK65N
+
+contact: contact@simplETN.com
