@@ -13,7 +13,7 @@ upcoming features:
 4. support for pool change, pool history and wallet ballance inquiry over the pool history
 5. support for different coins: monero, sumokoin, ethereum, please suggest here more.
 
-dev donations to ETN address
+dev donations to ETN address, thank you :) <3
 etnjxx1nyrU4sayUzz14nXidenKXjrsJB5dQjhRhwCXhUTJkJCRGQcu2K9MkVtuhUgUYmrMJKSsjKhzuMptXgoaU2tq3aRK65N
 
 contact: unusximmortalis@gmail.com
