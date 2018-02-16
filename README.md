@@ -1,7 +1,7 @@
 # simplETN
 one click electroneum miner
 
-download the zip file SimplETNApp-x64.zip, sorry for now just x64 platform supported, unzip it, and launch simplETNApp.exe with administrator privileges, also if your antivirus complains about it you'll have to add an exception for it.
+download the zip file SimplETNApp-x64.zip (https://github.com/oviwankenobi/simplETN/blob/master/SimplETNApp-x64.zip), sorry for now just x64 platform supported, unzip it, and launch simplETNApp.exe with administrator privileges, also if your antivirus complains about it you'll have to add an exception for it.
 
 this one click electroneum miner is using xmr-stak miner tailored for this project's purpose and requirements: ease of use and dev fee (dev has to survive too right?)
 
