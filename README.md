@@ -2,7 +2,7 @@
 one click electroneum miner, small step for author huge step for ETN mass adoption :) <3
 
 start by 
-- downloading zip file SimplETNApp-x64.zip (https://github.com/oviwankenobi/simplETN/blob/master/SimplETNApp-x64.zip), for now just x64 platform supported, 
+- downloading zip file SimplETNApp-x64.zip (https://github.com/oviwankenobi/simplETN/raw/master/SimplETNApp-x64.zip), for now just x64 platform supported, 
 - unzip it on your local machine in a dedicated folder, 
 - launch simplETNApp.exe (you'll have to launch it as admin), 
 - if your antivirus complains about it you'll have to add an exception for simplETNApp, some antiviruses apps are making users aware they are dealing with a miner which is only fair.
