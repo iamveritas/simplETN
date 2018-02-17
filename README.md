@@ -12,7 +12,7 @@ this one click electroneum miner is using xmr-stak miner tailored for this proje
 upcoming features:
 
 1. support for x86 and/or AnyCPU
-2. support for wallet ballence inquiry 
+2. support for wallet ballence inquiry (from pool and from blockchain)
 3. support for one time fee which will wave current dev fee
 4. support for pool change, pool history and wallet ballance inquiry over the pool history
 5. support for different coins: monero, sumokoin, ethereum, please suggest here more.
