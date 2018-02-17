@@ -6,7 +6,7 @@ After install you'll mine with one press of a button, safe, secure, easy; x64 wi
 
 This one click electroneum miner is using xmr-stak miner tailored for this project's purpose and requirements: ease of use for mass adoption, *everyone should be able to easily use cryptocurrencies*.
 
-_Feature List:_
+__Features List:__
 - it is mining using both GPU and CPU
 - it is using your spare CPU so you can work in the same time and only when you are not using your CPU is hitting it 100%
 - it is self tunning to maximize your computer potential, by auto configuring itself after the first run
@@ -14,14 +14,14 @@ _Feature List:_
 - after setup, it is really a 1 click miner
 - more to come
 
-_Start by:_
+__Steps to Install:__
 
 1. download zip file SimplETNApp-x64.zip (https://github.com/oviwankenobi/simplETN/raw/master/SimplETNApp-x64.zip), for now just x64 platform supported, 
 2. unzip it on your local machine in a dedicated folder, 
 3. launch simplETNApp.exe (you'll have to launch it as admin), 
 4. if your antivirus complains about it you'll have to add an exception for simplETNApp, some antiviruses apps are making users aware they are dealing with a miner which is only fair.
 
-_Upcoming features (features request, comments are welcomed):_
+__Upcoming features (features request, comments are welcomed):__
 
 - support for x86 and/or AnyCPU
 - instaler, updater
