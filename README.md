@@ -1,5 +1,5 @@
 # simplETN
-One click electroneum miner, small step for author huge step for ETN mass adoption :) <3
+One click electroneum miner (GPU + CPU), small step for author huge step for ETN mass adoption :) <3
 
 For those wanting to mine ETN and didn't figure out the ins and outs (how to mine, how to create and manage a wallet, pools, etc.) this app will do it all for you.
 After install you'll mine with one press of a button, safe, secure, easy; x64 windows only support for now, feedback welcomed, the intention behind this tool is exactly what Electroneum principle is: anyone should be able to easily get involved and use cryptocurrencies.
@@ -12,6 +12,14 @@ Start by:
 4. if your antivirus complains about it you'll have to add an exception for simplETNApp, some antiviruses apps are making users aware they are dealing with a miner which is only fair.
 
 This one click electroneum miner is using xmr-stak miner tailored for this project's purpose and requirements: ease of use for mass adoption, *everyone should be able to easily use cryptocurrencies*.
+
+Feature List:
+- it is mining using both GPU and CPU
+- it is using your spare CPU so you can work in the same time and only when you are not using your CPU is hitting it 100%
+- it is self tunning to maximize your computer potential, by auto configuring itself after the first run
+- it can generate the ETN wallet while you are offline, so 100% secure/safe; after you generated the wallet and saved it securily, you can re-connect and start mining
+- after setup, it is really a 1 click miner
+- more to come
 
 Upcoming features (features request, comments are welcomed):
 
