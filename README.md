@@ -2,7 +2,7 @@
 One click electroneum miner (GPU + CPU), small step for author huge step for ETN mass adoption :) <3
 
 For those wanting to mine ETN and didn't figure out the ins and outs (how to mine, how to create and manage a wallet, pools, etc.) this app will do it all for you.
-After install you'll mine with one press of a button, safe, secure, easy; x64 windows only support for now, feedback welcomed, the intention behind this tool is exactly what Electroneum principle is: ease of use for mass adoption, __everyone should be able to easily use cryptocurrencies__.
+After install you'll mine with one press of a button, safe, secure, easy; x64 windows only support for now, feedback welcomed, the intention behind this tool is exactly what Electroneum principle is: ease of use for mass adoption, __everyone should be able to use cryptocurrencies easily__.
 
 __Features List:__
 - it is mining using both GPU and CPU
@@ -10,7 +10,7 @@ __Features List:__
 - it is self tunning to maximize your computer potential, by auto configuring itself after the first run
 - it can generate the ETN wallet while you are offline, so 100% secure/safe; after you generated the wallet and saved it securily, you can re-connect and start mining
 - after setup, it is really a 1 click miner
-- it is relying on xmr-stak all in one miner tailored for this project's purpose: ease of use, __everyone should be able to easily use cryptocurrencies__
+- it is relying on xmr-stak all in one miner tailored for this project's purpose: ease of use, __everyone should be able to use cryptocurrencies easily__
 - more to come
 
 __Steps to Install:__
