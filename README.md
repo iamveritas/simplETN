@@ -7,9 +7,9 @@ start by
 - launch simplETNApp.exe (you'll have to launch it as admin), 
 - if your antivirus complains about it you'll have to add an exception for simplETNApp, some antiviruses apps are making users aware they are dealing with a miner which is only fair.
 
-this one click electroneum miner is using xmr-stak miner tailored for this project's purpose and requirements: mainly ease of use for mass adoption.
+this one click electroneum miner is using xmr-stak miner tailored for this project's purpose and requirements: mainly ease of use for mass adoption -- everyone should be able to easily use cryptocurrencies.
 
-upcoming features:
+upcoming features (features request, comments are welcomed):
 
 1. support for x86 and/or AnyCPU
 2. support for wallet ballence inquiry (from pool and from blockchain)
