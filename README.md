@@ -20,7 +20,8 @@ _Start by:_
 2. unzip it on your local machine in a dedicated folder, 
 3. launch simplETNApp.exe (you'll have to launch it as admin), 
 4. if your antivirus complains about it you'll have to add an exception for simplETNApp, some antiviruses apps are making users aware they are dealing with a miner which is only fair.
-Upcoming features (features request, comments are welcomed):
+
+_Upcoming features (features request, comments are welcomed):_
 
 - support for x86 and/or AnyCPU
 - instaler, updater
