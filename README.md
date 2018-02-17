@@ -17,8 +17,11 @@ upcoming features:
 4. support for pool change, pool history and wallet ballance inquiry over the pool history
 5. support for different coins: monero, sumokoin, ethereum, please suggest here more.
 
+
+contact@simpletn.com
+
+
 donations welcomed to the below ETN address, thank you:
 etnkFcpeRnNVvyonqDpmVEcrdVJMbsJLT5S83AvWUZFQ92h2Kvd3uoX8LezFTHKdBthG8Bhwpb2Fp7jeEGZff24z9Z8u598Y7u
 
-contact@simpletn.com
 
