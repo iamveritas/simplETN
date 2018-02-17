@@ -18,7 +18,7 @@ upcoming features:
 5. support for different coins: monero, sumokoin, ethereum, please suggest here more.
 
 please make donations to below ETN address, thank you:
-etnjxx1nyrU4sayUzz14nXidenKXjrsJB5dQjhRhwCXhUTJkJCRGQcu2K9MkVtuhUgUYmrMJKSsjKhzuMptXgoaU2tq3aRK65N
+etnkFcpeRnNVvyonqDpmVEcrdVJMbsJLT5S83AvWUZFQ92h2Kvd3uoX8LezFTHKdBthG8Bhwpb2Fp7jeEGZff24z9Z8u598Y7u
 
 contact@simpletn.com
 
