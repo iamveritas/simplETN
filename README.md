@@ -1,7 +1,7 @@
 # simplETN
 One click electroneum miner, small step for author huge step for ETN mass adoption :) <3
 
-For those wanting to mine ETN and didn't figure out the ins and outs (how to mine, how to create and manage an wallet, pools, etc.) this app will do it all for you.
+For those wanting to mine ETN and didn't figure out the ins and outs (how to mine, how to create and manage a wallet, pools, etc.) this app will do it all for you.
 After install you'll mine with one press of a button, safe, secure, easy; x64 windows only support for now, feedback welcomed, the intention behind this tool is exactly what Electroneum principle is: anyone should be able to easily get involved and use cryptocurrencies.
 
 Start by:
@@ -17,7 +17,7 @@ Upcoming features (features request, comments are welcomed):
 
 - support for x86 and/or AnyCPU
 - instaler, updater
-- support for wallet ballence inquiry (from pool and from blockchain)
+- support for wallet ballence inquiry (from pool and/or from blockchain)
 - support for one time fee which will wave current dev fee
 - support for pool change, pool history and wallet ballance inquiry over the pool history
 - support for different coins: monero, sumokoin, ethereum, please suggest here more.
@@ -26,7 +26,7 @@ Upcoming features (features request, comments are welcomed):
 contact@simpletn.com
 
 
-donations welcomed to the below ETN address, thank you:
+Donations welcomed to the below ETN address, thank you:
 etnkFcpeRnNVvyonqDpmVEcrdVJMbsJLT5S83AvWUZFQ92h2Kvd3uoX8LezFTHKdBthG8Bhwpb2Fp7jeEGZff24z9Z8u598Y7u
 
 
