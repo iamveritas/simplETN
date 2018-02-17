@@ -23,7 +23,7 @@ Upcoming features (features request, comments are welcomed):
 - support for different coins: monero, sumokoin, ethereum, please suggest here more.
 
 
-contact@simpletn.com
+contact@simplETN.com
 
 
 Donations welcomed to the below ETN address, thank you:
