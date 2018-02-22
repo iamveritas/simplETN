@@ -15,14 +15,13 @@ __Features List:__
 
 __Steps to Install:__
 
-1. download zip file SimplETNApp-x64.zip (https://github.com/oviwankenobi/simplETN/raw/master/SimplETNApp.zip), for now just x64 platform supported, 
+1. download SimplETNApp.zip file from https://github.com/oviwankenobi/simplETN/raw/master/SimplETNApp.zip, 
 2. unzip it on your local machine in a dedicated folder, 
 3. launch simplETNApp.exe (you'll have to launch it as admin), 
 4. if your antivirus complains about it you'll have to add an exception for simplETNApp, some antiviruses apps are making users aware they are dealing with a miner which is only fair.
 
 __Upcoming features (features request, comments are welcomed):__
 
-- support for x86 and/or AnyCPU
 - instaler, updater
 - support for wallet ballence inquiry (from pool and/or from blockchain)
 - support for one time fee which will wave current dev fee
